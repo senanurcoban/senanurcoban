@@ -6,13 +6,12 @@
 
 - 🔭 I’m currently working on **microservices project**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot,Microservices Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/senanurcoban?tab=repositories](https://github.com/senanurcoban?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@senanurcoban](https://medium.com/@senanurcoban)
 
-- 💬 Ask me about **Java Spring Boot ,Microservice Architecture**
 
 - 📫 How to reach me **senacoban132@gmail.com**
 
