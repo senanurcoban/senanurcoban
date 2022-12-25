@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **microservices project**
 
-- 🌱 I’m currently learning **Spring Boot,Microservices Architecture**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/senanurcoban?tab=repositories](https://github.com/senanurcoban?tab=repositories)
 
