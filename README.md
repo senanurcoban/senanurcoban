@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/senanurcoban?tab=repositories](https://github.com/senanurcoban?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@senanurcoban](https://medium.com/@senanurcoban)
+<!-- 📝 I regularly write articles on [https://medium.com/@senanurcoban](https://medium.com/@senanurcoban)-->
 
 
 - 📫 How to reach me **senacoban132@gmail.com**
