@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sena Nur ÇOBAN</h1>
-<h3 align="center"> Backend Developer||Software Engineer</h3>
+<h3 align="center"> Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senanurcoban&label=Profile%20views&color=0e75b6&style=plastic" alt="senanurcoban" /> </p>
 
